@@ -13,7 +13,7 @@
 	syntax highlighting, intellisense, editorconfig, linting(ale), vim-surround, nerdcommenter
 
 ## 5. Setting up vim as a react ide
-	jsx, flow 
+	jsx, flow, jest(run test automatically - vim-test)
 
 ## 6. Other useful plugins
 	edit markdown files, tabular
