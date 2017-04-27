@@ -2,6 +2,7 @@
 
 ## 1. Introduction to VIM
 navigation commands, vim modes, open/edit file. (how to quit vim(eheh))
+copy/paste and using system clipboard
 
 ## 2. Customize VIM
 setting up theme, nerd font and plugins like nerdtree, vim-airline, git-gutter, vim-fugitive, learn to use vimrc, setting up useful shortcuts(like close buffer)
